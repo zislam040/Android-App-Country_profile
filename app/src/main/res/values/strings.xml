@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="pakistan_button">Pakistan</string>
+    <string name="title_text">This is an alert notification</string>
+    <string name="message_text">Do you want to exit now ?</string>
+
+
+
+    <string name="bangladesh_text">
+        Bangladesh, to the east of India on the Bay of Bengal,\n
+        is a South Asian country marked by lush greenery and many waterways.\n
+        Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains,\n
+        and travel by boat is common. On the southern coast, the Sundarbans,\n
+        an enormous mangrove forest shared with Eastern India,\n
+        is home to the royal Bengal tiger.\n
+        Bangladesh, to the east of India on the Bay of Bengal,\n
+        is a South Asian country marked by lush greenery and many waterways.\n
+        Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains,\n
+        and travel by boat is common. On the southern coast, the Sundarbans,\n
+        an enormous mangrove forest shared with Eastern India,\n
+        is home to the royal Bengal tiger.\n
+    </string>
+    <string name="india_text">
+        India, also known as the Republic of India,\n
+        is a country in South Asia.\n
+        It is the seventh largest country by area and with more than 1.3 billion people,\n
+        it is the second most populous country,\n
+        as well as the most populous democracy in the world\n
+        India, also known as the Republic of India, \n
+        is a country in South Asia.\n
+        It is the seventh largest country by area and with more than 1.3 billion people,\n
+        it is the second most populous country as\n
+        well as the most populous democracy in the world.\n
+    </string>
+    <string name="pakistan_text">
+        Pakistan, officially the Islamic Republic of Pakistan,\n
+        is a country in South Asia.\n
+        It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.\n
+        In area, it is the 33rd-largest country,\n
+        spanning 881,913 square kilometres.\n
+        Pakistan, officially the Islamic Republic of Pakistan,\n
+        is a country in South Asia. \n
+        It is the world’s sixth-most populous country with a population exceeding 212,742,631 people.\n
+        In area, it is the 33rd-largest country,\n
+        spanning 881,913 square kilometres\n
+    </string>
+
+</resources>
